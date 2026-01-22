@@ -1,29 +1,19 @@
-# SmartManufacturing-DataAnalysis
-SmartManufacturing-DataAnalysis
-
-# 🔧 스마트팩토리 정비 조건 도출 프로젝트
-
-## 📌 프로젝트 개요
-
+# 🔧SmartManufacturing-DataAnalysis
 스마트 제조 환경에서 기계의 센서 데이터를 기반으로 이상 징후를 분석하고,  
 정비가 필요한 조건을 도출하는 프로젝트입니다.
+
+## 📌 프로젝트 개요
+유지보수가 필요한 경우에 이상 징후 패턴 분석하고, 예측 정비 기준 조건을 수립하는 것을 목표로 합니다.
+
 
 <br/>
 
 ## 🧪 사용 데이터
 
-- **데이터 출처:** [Kaggle - Smart Manufacturing IoT Dataset](https://www.kaggle.com/datasets/gabrielsantello/manufacturing-defects-industry-dataset)
+- **데이터 출처:** [Kaggle - Smart Manufacturing IoT Dataset](https://www.kaggle.com/datasets/ziya07/smart-manufacturing-iot-cloud-monitoring-dataset)
 - **주요 변수**
   - `temperature`, `vibration`, `humidity`, `pressure`, `energy_consumption`
   - `predicted_remaining_life`, `maintenance_required`, `machine_status`, `failure_type`
-
-<br/>
-
-## ⚙️ 분석 목표
-
-- 유지보수가 필요한 경우에 이상 징후 패턴 분석
-- 예측 정비 기준 조건을 수립
-
 
 <br/>
 
